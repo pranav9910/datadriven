@@ -32,7 +32,7 @@ public class ExtentReportWithListeners extends BaseClass implements ITestListene
 		addtest.setSystemInfo("BrowserVersion", "191.12.21.23");
 		addtest.setSystemInfo("MACAddress", "00-B0-C0-63-C2-26");
 		addtest.setSystemInfo("Environment", "Testing");
-		addtest.setSystemInfo("UserName", "Pranav Rai");
+		addtest.setSystemInfo("UserName", "pranav");
 		
 		createReport.config().setReportName("Shopping Project");
 		createReport.config().setDocumentTitle("My New Report");
